@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Oblig1/bin/Debug/net7.0-android
+/Oblig1/obj
+/.vs/Oblig1/FileContentIndex/ed7e994c-b223-47a4-b0e0-94f725b1a14d.vsidx
+/.vs/Oblig1/FileContentIndex/70e8a9ea-2493-4b69-bc4a-6d356c42d571.vsidx
+/.vs/Oblig1/FileContentIndex/4adb0623-1df3-446c-838e-b85b1405dac7.vsidx
+/.vs/Oblig1/FileContentIndex/4a6cf2d0-1c17-44cc-b934-b8d2be6c95f2.vsidx
+/.vs/Oblig1/v17/.suo
