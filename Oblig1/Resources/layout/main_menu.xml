@@ -15,19 +15,19 @@
         android:gravity="center_horizontal"/>
     <Button
         android:id="@+id/start_quiz"
-        android:text="Option 1"
+        android:text="Start Quiz"
         android:layout_margin="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <Button
         android:id="@+id/database"
-        android:text="Option 2"
+        android:text="Database"
         android:layout_margin="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <Button
         android:id="@+id/add_entry"
-        android:text="Option 3"
+        android:text="Add Question"
         android:layout_margin="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
