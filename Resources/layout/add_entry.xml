@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:scaleType="centerInside"
+        android:layout_height="wrap_content" 
+        android:src="@drawable/select" />
+
+    <EditText
+        android:id="@+id/correctAnswerEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Correct answer" />
+
+    <EditText
+        android:id="@+id/wrongAnswer1EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Wrong answer 1" />
+
+    <EditText
+        android:id="@+id/wrongAnswer2EditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Wrong answer 2" />
+
+    <Button
+        android:id="@+id/addEntryButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Entry" />
+
+</LinearLayout>
